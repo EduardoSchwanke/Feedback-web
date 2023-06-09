@@ -4,7 +4,7 @@
     <a href="https://pt-br.reactjs.org/">🔗 React - TS</a>
 </h1>
 
-![](https://github.com/LivioAlvarenga/Nlw-Setup/raw/master/files/cover.png?raw=true)
+![](https://github.com/EduardoSchwanke/Feedback-web/blob/main/src/assets/Capa.png)
 <p>Aplicação feita na NLW da Rocktseat em 2022. Nessa aplicação foi criar um app para envio de feedback sobre a navegação em aplicações web.</p>
 
 
